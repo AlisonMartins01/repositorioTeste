@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d1e713b-813c-4c75-9c8b-5778dacd2ce0": {
+      "ProjectGuid": "8d1e713b-813c-4c75-9c8b-5778dacd2ce0",
+      "DisplayName": "ProvaCandidato.Data",
+      "ColorIndex": 0
+    },
+    "7950fcb1-0e26-485e-be00-cd8460258c84": {
+      "ProjectGuid": "7950fcb1-0e26-485e-be00-cd8460258c84",
+      "DisplayName": "ProvaCandidato.Web",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
